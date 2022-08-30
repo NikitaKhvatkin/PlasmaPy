@@ -15,3 +15,5 @@ Contributor Guide
    testing_guide
    doc_guide
    release_guide
+   workflow
+
