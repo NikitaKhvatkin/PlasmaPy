@@ -8,49 +8,49 @@ Many ways to contribute
 Beforehand
 ==========
 
-Create a GitHub account
+[] Create a GitHub account
 -----------------------
 
-Install git
+[] Install git
 -----------
 
 Getting started
 ===============
 
-Fork the repository
+[] Fork the repository
 -------------------
 
-Clone the repository
+[] Clone the repository
 --------------------
 
-Set up remotes
+[] Set up remotes
 --------------
 
 Workflow
 ========
 
-Fetch recent changes
+[] Fetch recent changes
 --------------------
 
-Create new branch
+[] Create new branch
 -----------------
 
-Connect the branch to GitHub
+[] Connect the branch to GitHub
 ----------------------------
 
-Make changes
+[] Make changes
 ------------
 
-Commit the changes
+[] Commit the changes
 ------------------
 
-Push the changes to GitHub
+[] Push the changes to GitHub
 --------------------------
 
-Add a changelog entry
+[] Add a changelog entry
 ---------------------
 
-Code review
+[] Code review
 -----------
 
 Getting help
